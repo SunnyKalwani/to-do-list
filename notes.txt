@@ -1,0 +1,2 @@
+To do list app - User data stored in local storage of the browser
+
